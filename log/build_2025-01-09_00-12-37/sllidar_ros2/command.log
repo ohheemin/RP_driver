@@ -1,0 +1,1 @@
+Invoking command in '/home/ohheemin/RP/build/sllidar_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ohheemin/RP/sllidar_ros2 -DCMAKE_INSTALL_PREFIX=/home/ohheemin/RP/install/sllidar_ros2
